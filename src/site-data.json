@@ -1,0 +1,624 @@
+{
+  "hero": {
+    "config": {
+      "layout": {
+        "height": "custom",
+        "maxWidth": 1200,
+        "fullWidth": true,
+        "contentAlign": "center",
+        "customHeight": {
+          "mobile": 400,
+          "tablet": 500,
+          "desktop": 600
+        },
+        "verticalAlign": "middle"
+      },
+      "slider": {
+        "loop": true,
+        "enabled": true,
+        "autoplay": true,
+        "keyboardNav": true,
+        "pauseOnHover": true,
+        "autoplaySpeed": 5000,
+        "swipeOnMobile": true,
+        "transitionSpeed": 600
+      },
+      "slides": [
+        {
+          "id": "slide-1788389322880-7ow6w2u0k",
+          "title": "Cultivate Your Dream Garden with Everbloom Nurseries",
+          "subtitle": "Discover a breathtaking selection of plants, expert advice, and personalized service to transform your outdoor space into a thriving oasis.",
+          "description": "",
+          "overlayColor": "#000000",
+          "primaryButton": {
+            "link": "#contact",
+            "text": "Explore Our Plants"
+          },
+          "overlayOpacity": 50,
+          "backgroundImage": "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTM5NjZ8MHwxfHNlYXJjaHwxfHxjaGlsZGNhcmV8ZW58MHx8fHwxNzg3OTU0MjE1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+          "secondaryButton": {
+            "link": "#about",
+            "text": "Call Now"
+          }
+        },
+        {
+          "id": "slide-1788389322880-fzm22kfbu",
+          "title": "",
+          "subtitle": "",
+          "description": "",
+          "overlayColor": "#000000",
+          "overlayOpacity": 50,
+          "backgroundImage": "https://images.unsplash.com/photo-1484820540004-14229fe36ca4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTM5NjZ8MHwxfHNlYXJjaHwzfHxjaGlsZGNhcmV8ZW58MHx8fHwxNzg3OTU0MjE1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+          "backgroundPosition": {
+            "x": 42,
+            "y": 32
+          }
+        },
+        {
+          "id": "slide-1788389322880-ypdoqcdsu",
+          "title": "",
+          "subtitle": "",
+          "description": "",
+          "overlayColor": "#000000",
+          "overlayOpacity": 50,
+          "backgroundImage": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTM5NjZ8MHwxfHNlYXJjaHwyfHxjaGlsZGNhcmV8ZW58MHx8fHwxNzg3OTU0MjE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+        }
+      ],
+      "animation": {
+        "textAnimation": "fade",
+        "transitionType": "fade",
+        "textAnimationDelay": 200
+      },
+      "navigation": {
+        "showDots": true,
+        "showArrows": true,
+        "dotPosition": "bottom-center",
+        "arrowPosition": "inside"
+      },
+      "responsive": {
+        "heights": {
+          "mobile": 400,
+          "tablet": 500,
+          "desktop": 600
+        },
+        "fontSizes": {
+          "mobile": {
+            "title": "2rem",
+            "subtitle": "1rem",
+            "description": "0.875rem"
+          },
+          "tablet": {
+            "title": "3rem",
+            "subtitle": "1.25rem",
+            "description": "1rem"
+          },
+          "desktop": {
+            "title": "4rem",
+            "subtitle": "1.5rem",
+            "description": "1.125rem"
+          }
+        },
+        "hideTextOnMobile": false
+      },
+      "performance": {
+        "lazyLoadImages": true,
+        "pauseWhenHidden": true,
+        "preloadFirstSlide": true
+      }
+    },
+    "layout": "centered",
+    "heading": "Cultivate Your Dream Garden with Everbloom Nurseries",
+    "heroImage": "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTM5NjZ8MHwxfHNlYXJjaHwxfHxjaGlsZGNhcmV8ZW58MHx8fHwxNzg3OTU0MjE1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+    "imageBlur": 0,
+    "heroImages": [
+      "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTM5NjZ8MHwxfHNlYXJjaHwxfHxjaGlsZGNhcmV8ZW58MHx8fHwxNzg3OTU0MjE1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "https://images.unsplash.com/photo-1484820540004-14229fe36ca4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTM5NjZ8MHwxfHNlYXJjaHwzfHxjaGlsZGNhcmV8ZW58MHx8fHwxNzg3OTU0MjE1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "https://images.unsplash.com/photo-1516627145497-ae6968895b74?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4NTM5NjZ8MHwxfHNlYXJjaHwyfHxjaGlsZGNhcmV8ZW58MHx8fHwxNzg3OTU0MjE1fDA&ixlib=rb-4.1.0&q=80&w=1080"
+    ],
+    "primaryCTA": "Explore Our Plants",
+    "subheading": "Discover a breathtaking selection of plants, expert advice, and personalized service to transform your outdoor space into a thriving oasis.",
+    "imageOverlay": 50,
+    "secondaryCTA": "Call Now",
+    "sliderInterval": 5000,
+    "secondaryCTAHref": "tel:6043814040"
+  },
+  "pages": [
+    {
+      "id": "page-home",
+      "slug": "",
+      "title": "Home",
+      "isHome": true,
+      "sections": [
+        {
+          "id": "why-everbloom",
+          "type": "features",
+          "items": [
+            {
+              "icon": "🌱",
+              "title": "Premium Plant Selection",
+              "description": "We hand-pick the finest, healthiest plants, ensuring exceptional quality and variety for every gardening project."
+            },
+            {
+              "icon": "👨‍🌾",
+              "title": "Expert Horticultural Advice",
+              "description": "Our passionate team offers tailored guidance, helping you select the perfect plants and care for them successfully."
+            },
+            {
+              "icon": "📍",
+              "title": "Local Abbotsford Gem",
+              "description": "Proudly serving the Fraser Valley community with a welcoming atmosphere and a deep understanding of local growing conditions."
+            }
+          ],
+          "title": "Why Gardeners Choose Everbloom Nurseries",
+          "layout": "grid-3",
+          "subtitle": "Your trusted partner in creating beautiful, flourishing landscapes."
+        },
+        {
+          "id": "our-offerings",
+          "type": "services",
+          "items": [
+            {
+              "icon": "🌸",
+              "image": "https://images.unsplash.com/photo-1549419199-6e3e1ed55502?w=800&q=80",
+              "title": "Annuals & Perennials",
+              "description": "Fill your garden with continuous color from our extensive collection of seasonal annuals and long-lasting perennials."
+            },
+            {
+              "icon": "🌳",
+              "image": "https://images.unsplash.com/photo-1582298716298-b8ce713a09e0?w=800&q=80",
+              "title": "Trees & Shrubs",
+              "description": "Find the perfect shade tree, flowering shrub, or evergreen to create structure and beauty in your landscape."
+            },
+            {
+              "icon": "🍅",
+              "image": "https://images.unsplash.com/photo-1629168051261-26c79a957b98?w=800&q=80",
+              "title": "Edibles & Herbs",
+              "description": "Grow your own delicious fruits, vegetables, and aromatic herbs with our healthy, ready-to-plant starts."
+            },
+            {
+              "icon": "🏺",
+              "image": "https://images.unsplash.com/photo-1593309990520-21a41630130f?w=800&q=80",
+              "title": "Pots & Planters",
+              "description": "Choose from a wide array of stylish pots, containers, and baskets to complement your plants and outdoor decor."
+            },
+            {
+              "icon": "🧤",
+              "image": "https://images.unsplash.com/photo-1628173434601-525d88686d11?w=800&q=80",
+              "title": "Gardening Supplies",
+              "description": "Stock up on essential tools, premium soils, fertilizers, and pest control solutions for successful gardening."
+            },
+            {
+              "icon": "🎁",
+              "image": "https://images.unsplash.com/photo-1616785340628-98e3b0704446?w=800&q=80",
+              "title": "Garden Gifts & Decor",
+              "description": "Discover unique gifts for fellow gardeners and charming decor to add character and charm to any outdoor space."
+            }
+          ],
+          "title": "Discover Our Diverse Offerings",
+          "layout": "grid-3",
+          "subtitle": "From vibrant annuals to majestic trees, we have everything you need to bring your garden dreams to life."
+        },
+        {
+          "id": "customer-stories",
+          "type": "testimonials",
+          "items": [
+            {
+              "name": "Sarah Chen",
+              "role": "Home Gardener, Abbotsford",
+              "quote": "Everbloom Nurseries is my absolute favorite place! The staff are incredibly knowledgeable and always help me find exactly what I need. My garden has never looked better thanks to their healthy plants and excellent advice.",
+              "rating": 5
+            },
+            {
+              "name": "Mark Thompson",
+              "role": "Landscape Designer, Langley",
+              "quote": "As a professional, I rely on Everbloom for consistent quality and variety. Their selection of trees and shrubs is outstanding, and their team is always supportive. They're a crucial partner for my projects.",
+              "rating": 5
+            },
+            {
+              "name": "Emily Rodriguez",
+              "role": "Community Garden Volunteer",
+              "quote": "The team at Everbloom Nurseries goes above and beyond. They helped us choose resilient, native plants for our community garden, and the results have been fantastic. Their passion for plants truly shines!",
+              "rating": 5
+            }
+          ],
+          "title": "What Our Gardeners Say",
+          "layout": "cards",
+          "subtitle": "Hear from our happy customers about their Everbloom experience."
+        },
+        {
+          "id": "visit-us-cta",
+          "body": "Step into Everbloom Nurseries and let our vibrant selection inspire your next gardening adventure. Our friendly experts are here to help you every step of the way.",
+          "type": "cta",
+          "title": "Ready to Grow Your Green Oasis?",
+          "layout": "centered",
+          "buttonLink": "/contact",
+          "buttonText": "Plan Your Visit Today"
+        }
+      ],
+      "isVisible": true
+    },
+    {
+      "id": "page-about",
+      "hero": {
+        "layout": "centered",
+        "heading": "Our Story: Nurturing Nature in Abbotsford",
+        "heroImage": "https://images.unsplash.com/photo-1502082553654-6869a25037?w=1920&q=80",
+        "primaryCTA": "Meet Our Team",
+        "subheading": "Learn about the passion, people, and principles that make Everbloom Nurseries a cornerstone of the Fraser Valley gardening community.",
+        "imageOverlay": 50,
+        "secondaryCTA": "Our Values"
+      },
+      "slug": "about",
+      "title": "About Us",
+      "isHome": false,
+      "sections": [
+        {
+          "id": "our-history",
+          "body": "Everbloom Nurseries Ltd. began with a simple vision: to share the joy of gardening with our community. Founded over two decades ago right here in Abbotsford, we started as a small, family-owned venture dedicated to growing resilient, beautiful plants suited for our unique climate. Over the years, we've blossomed, expanding our offerings and expertise, but our core commitment to quality, community, and horticultural excellence remains unchanged. We believe that a thriving garden contributes to a thriving life.",
+          "type": "content",
+          "image": "https://images.unsplash.com/photo-1542838139-4d94b1509939?w=1000&q=80",
+          "title": "Our Roots Run Deep in the Fraser Valley",
+          "layout": "image-left"
+        },
+        {
+          "id": "our-values",
+          "type": "features",
+          "items": [
+            {
+              "icon": "💚",
+              "title": "Quality First",
+              "description": "We are dedicated to providing only the healthiest, most vigorous plants and premium gardening products to ensure your success."
+            },
+            {
+              "icon": "🤝",
+              "title": "Community Focus",
+              "description": "We cherish our role in the Abbotsford community, striving to be a welcoming space for all gardeners and a resource for local green initiatives."
+            },
+            {
+              "icon": "📚",
+              "title": "Knowledge Sharing",
+              "description": "Our team is passionate about educating and empowering gardeners of all levels with expert advice and helpful resources."
+            },
+            {
+              "icon": "🌍",
+              "title": "Sustainability",
+              "description": "We practice environmentally responsible growing methods and actively promote sustainable gardening practices among our customers."
+            },
+            {
+              "icon": "✨",
+              "title": "Passion for Plants",
+              "description": "Gardening is more than a business; it's our joy. This passion drives us to constantly seek out unique varieties and innovations."
+            },
+            {
+              "icon": "💖",
+              "title": "Customer Delight",
+              "description": "Your satisfaction is our priority. We strive to create an inspiring and helpful experience every time you visit."
+            }
+          ],
+          "title": "Our Growing Principles",
+          "layout": "grid-3",
+          "subtitle": "The values that cultivate our passion and guide our commitment to you."
+        },
+        {
+          "id": "meet-our-team",
+          "type": "team",
+          "items": [
+            {
+              "bio": "With over 30 years of experience, David’s passion for plants is the root of Everbloom Nurseries. He loves sharing growing tips.",
+              "name": "David Carter",
+              "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&q=80",
+              "title": "Founder & Head Horticulturist"
+            },
+            {
+              "bio": "Maria expertly oversees our plant selection and care. Her eye for detail ensures every plant is healthy and ready for your home.",
+              "name": "Maria Garcia",
+              "image": "https://images.unsplash.com/photo-1499952127978-e4b3b145d064?w=400&q=80",
+              "title": "Nursery Manager"
+            },
+            {
+              "bio": "Ethan loves helping new gardeners find their footing. He hosts our workshops and is always ready with practical advice.",
+              "name": "Ethan White",
+              "image": "https://images.unsplash.com/photo-1599566150163-29194d6b4890?w=400&q=80",
+              "title": "Customer Education Specialist"
+            }
+          ],
+          "title": "Meet Our Green Thumbs",
+          "layout": "grid-3",
+          "subtitle": "Our dedicated team of horticultural enthusiasts is here to help your garden flourish."
+        },
+        {
+          "id": "about-visit-cta",
+          "body": "Come visit us in Abbotsford and let our friendly team help you discover the joy of gardening. We're more than just a nursery; we're a community.",
+          "type": "cta",
+          "title": "Experience the Everbloom Difference",
+          "layout": "centered",
+          "buttonLink": "/contact",
+          "buttonText": "Get Directions"
+        }
+      ],
+      "isVisible": true
+    },
+    {
+      "id": "page-resources",
+      "slug": "resources",
+      "title": "Resources",
+      "isHome": false,
+      "sections": [
+        {
+          "id": "resources-hero",
+          "type": "hero",
+          "layout": "centered",
+          "heading": "Grow Your Knowledge: Everbloom Garden Resources",
+          "heroImage": "https://images.unsplash.com/photo-1497992795856-11f8e12f61dd?w=1920&q=80",
+          "subheading": "Access expert tips, seasonal guides, and helpful advice to cultivate a thriving garden all year round.",
+          "imageOverlay": 50
+        },
+        {
+          "id": "gardening-guides",
+          "type": "features",
+          "items": [
+            {
+              "icon": "📖",
+              "title": "Beginner's Guide to Planting",
+              "description": "Learn the basics of soil preparation, planting techniques, and initial care for common garden varieties."
+            },
+            {
+              "icon": "📅",
+              "title": "Seasonal Care Calendar (BC)",
+              "description": "Stay on top of your garden tasks with our month-by-month guide tailored for the British Columbia climate."
+            },
+            {
+              "icon": "🐛",
+              "title": "Pest & Disease Management",
+              "description": "Identify common garden pests and diseases and discover organic and effective treatment options."
+            },
+            {
+              "icon": "💧",
+              "title": "Smart Watering Techniques",
+              "description": "Optimize your watering schedule and methods to conserve water while keeping your plants hydrated."
+            },
+            {
+              "icon": "✂️",
+              "title": "Pruning for Health & Harvest",
+              "description": "Master the art of pruning to promote plant health, encourage blooms, and maximize your harvests."
+            },
+            {
+              "icon": "🐝",
+              "title": "Attracting Pollinators",
+              "description": "Discover native plants and strategies to create a pollinator-friendly garden that benefits local ecosystems."
+            }
+          ],
+          "title": "Essential Gardening Guides",
+          "layout": "grid-3",
+          "subtitle": "Practical advice for every gardener, from beginner to expert."
+        },
+        {
+          "id": "local-growing-tips",
+          "body": "The Fraser Valley's unique climate offers both opportunities and challenges for gardeners. Our resources are specifically curated to help you navigate local soil conditions, weather patterns, and plant hardiness zones. From understanding frost dates to selecting drought-tolerant species, we provide localized insights to ensure your garden thrives. Check back regularly for updates and new guides focusing on regional gardening topics.",
+          "type": "content",
+          "image": "https://images.unsplash.com/photo-1510323326117-646b976ee52c?w=1000&q=80",
+          "title": "Gardening in Abbotsford & Fraser Valley",
+          "layout": "image-right"
+        },
+        {
+          "id": "resource-question-cta",
+          "body": "Our expert team is always here to provide personalized advice. Don't hesitate to reach out or visit us in person!",
+          "type": "cta",
+          "title": "Still Have Questions?",
+          "layout": "centered",
+          "buttonLink": "/contact",
+          "buttonText": "Contact Our Experts"
+        }
+      ],
+      "isVisible": true
+    },
+    {
+      "id": "page-gallery",
+      "slug": "gallery",
+      "title": "Gallery",
+      "isHome": false,
+      "sections": [
+        {
+          "id": "gallery-hero",
+          "type": "hero",
+          "layout": "centered",
+          "heading": "A Visual Journey Through Everbloom Nurseries",
+          "heroImage": "https://images.unsplash.com/photo-1534448658097-f58c73400263?w=1920&q=80",
+          "subheading": "Explore the vibrant beauty of our plants, the serene atmosphere of our nursery, and inspiring garden creations from our community.",
+          "imageOverlay": 50
+        },
+        {
+          "id": "everbloom-gallery",
+          "type": "gallery",
+          "title": "Our Collection in Full Bloom",
+          "images": [
+            "https://images.unsplash.com/photo-1549419199-6e3e1ed55502?w=600&q=80",
+            "https://images.unsplash.com/photo-1582298716298-b8ce713a09e0?w=600&q=80",
+            "https://images.unsplash.com/photo-1629168051261-26c79a957b98?w=600&q=80",
+            "https://images.unsplash.com/photo-1593309990520-21a41630130f?w=600&q=80",
+            "https://images.unsplash.com/photo-1628173434601-525d88686d11?w=600&q=80",
+            "https://images.unsplash.com/photo-1616785340628-98e3b0704446?w=600&q=80",
+            "https://images.unsplash.com/photo-1510323326117-646b976ee52c?w=600&q=80",
+            "https://images.unsplash.com/photo-1502476579691-2374be232a9c?w=600&q=80",
+            "https://images.unsplash.com/photo-1534448658097-f58c73400263?w=600&q=80",
+            "https://images.unsplash.com/photo-1502082553654-6869a25037?w=600&q=80",
+            "https://images.unsplash.com/photo-1497992795856-11f8e12f61dd?w=600&q=80",
+            "https://images.unsplash.com/photo-1542838139-4d94b1509939?w=600&q=80"
+          ],
+          "layout": "grid-4",
+          "subtitle": "A glimpse into the beauty we cultivate and share with the Abbotsford community."
+        },
+        {
+          "id": "gallery-testimonials",
+          "type": "testimonials",
+          "items": [
+            {
+              "name": "David K. Abbotsford",
+              "role": "Garden Enthusiast",
+              "quote": "The annuals from Everbloom are simply stunning. They brought so much life and color to my patio this summer, truly brightening up my entire home.",
+              "rating": 5
+            },
+            {
+              "name": "Jessica L. Mission",
+              "role": "New Homeowner",
+              "quote": "I was overwhelmed with landscaping my new home, but the team at Everbloom guided me through every step. My garden now looks professionally designed!",
+              "rating": 5
+            }
+          ],
+          "title": "Inspired by Everbloom",
+          "layout": "cards",
+          "subtitle": "Our customers' gardens speak for themselves."
+        },
+        {
+          "id": "gallery-explore-cta",
+          "body": "Our gallery offers a peek, but nothing compares to experiencing the vibrant atmosphere and diverse selection at Everbloom Nurseries in person.",
+          "type": "cta",
+          "title": "See the Beauty for Yourself!",
+          "layout": "centered",
+          "buttonLink": "/contact",
+          "buttonText": "Plan Your Visit"
+        }
+      ],
+      "isVisible": true
+    },
+    {
+      "id": "page-contact",
+      "slug": "contact",
+      "title": "Contact",
+      "isHome": false,
+      "sections": [
+        {
+          "id": "contact-hero",
+          "type": "hero",
+          "layout": "centered",
+          "heading": "Connect with Everbloom Nurseries Ltd.",
+          "heroImage": "https://images.unsplash.com/photo-1558204684-25e4d2a13e5f?w=1920&q=80",
+          "subheading": "We're here to help your gardening dreams take root. Reach out to our friendly team with any questions or visit us in Abbotsford.",
+          "imageOverlay": 50
+        },
+        {
+          "id": "get-in-touch",
+          "type": "contact",
+          "title": "Get in Touch With Our Team",
+          "layout": "side-by-side",
+          "subtitle": "Have a question about a specific plant, need gardening advice, or want to inquire about our services? We'd love to hear from you!",
+          "formTitle": "Send Us a Message",
+          "contactInfo": {
+            "email": "info@everbloomnurseries.com",
+            "phone": "(604) 555-BLOOM (2566)",
+            "address": "1840 Lefeuvre Rd, Abbotsford, BC V4X 1K7",
+            "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2611.8349257602077!2d-122.42784852358823!3d49.07335687799516!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5485d34208d249f3%3A0x6335a297e684e2a1!2sLefeuvre%20Rd%2C%20Abbotsford%2C%20BC%20V4X%201K7!5e0!3m2!1sen!2sca!4v1701344400000!5m2!1sen!2sca"
+          },
+          "formDescription": "Please fill out the form below, and we'll get back to you within one business day."
+        },
+        {
+          "id": "frequently-asked-questions",
+          "type": "faq",
+          "items": [
+            {
+              "answer": "We offer a wide variety of plants including annuals, perennials, trees, shrubs, edibles, herbs, and native BC plants. Our selection changes seasonally, so visit us to see the latest offerings!",
+              "question": "What types of plants do you carry?"
+            },
+            {
+              "answer": "Currently, we do not offer delivery services for plants and products. All purchases must be picked up at our Abbotsford location during business hours.",
+              "question": "Do you offer delivery services?"
+            },
+            {
+              "answer": "Yes, absolutely! We encourage you to bring your own clean pots. Our team can help you select the right soil and even assist with repotting services for a small fee.",
+              "question": "Can I bring my own pots for repotting?"
+            },
+            {
+              "answer": "Our knowledgeable staff is always happy to provide free gardening advice and answer your plant-related questions. Feel free to ask us anything during your visit!",
+              "question": "Do you provide gardening advice?"
+            },
+            {
+              "answer": "While not all our plants are certified organic, we prioritize sustainable and environmentally friendly growing practices. We carry a selection of organic soils, fertilizers, and pest control products.",
+              "question": "Are your plants organically grown?"
+            },
+            {
+              "answer": "We offer a 7-day return policy for healthy plants with a receipt, provided they are in their original condition. For non-plant items, returns are accepted within 30 days. Please ask for full details at checkout.",
+              "question": "What are your return policies?"
+            }
+          ],
+          "title": "Frequently Asked Questions",
+          "layout": "accordion",
+          "subtitle": "Find quick answers to common inquiries about our nursery, plants, and services."
+        }
+      ],
+      "isVisible": true
+    }
+  ],
+  "footer": {
+    "links": [
+      {
+        "href": "/privacy",
+        "label": "Privacy Policy"
+      },
+      {
+        "href": "/terms",
+        "label": "Terms of Service"
+      }
+    ],
+    "copyright": "© 2026 Everbloom Nurseries Ltd.. All rights reserved.",
+    "companyName": "Everbloom Nurseries Ltd.",
+    "contactInfo": {
+      "email": "info@everbloomnurseries.com",
+      "phone": "604-381-4040",
+      "address": "Lefeuvre Rd, Abbotsford, BC V4X 1K7, Canada"
+    },
+    "description": "Your local Abbotsford plant nursery, cultivating vibrant gardens and passionate gardeners with premium plants and expert care.",
+    "socialLinks": [
+      {
+        "url": "#",
+        "platform": "facebook"
+      },
+      {
+        "url": "#",
+        "platform": "instagram"
+      },
+      {
+        "url": "#",
+        "platform": "linkedin"
+      }
+    ]
+  },
+  "header": {
+    "logoText": "Everbloom Nurseries Ltd.",
+    "navItems": [
+      {
+        "href": "/",
+        "label": "Home"
+      },
+      {
+        "href": "/about",
+        "label": "About Us"
+      },
+      {
+        "href": "/resources",
+        "label": "Resources"
+      },
+      {
+        "href": "/gallery",
+        "label": "Gallery"
+      },
+      {
+        "href": "/contact",
+        "label": "Contact"
+      }
+    ],
+    "ctaButton": {
+      "href": "/contact",
+      "text": "Visit Us Today"
+    }
+  },
+  "sections": [],
+  "globalStyles": {
+    "spacing": "spacious",
+    "animations": {
+      "enabled": true,
+      "hoverEffects": true
+    },
+    "borderRadius": "lg"
+  },
+  "detectedCategory": "childcare"
+}
